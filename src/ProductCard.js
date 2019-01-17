@@ -27,7 +27,7 @@ function MediaCard(props) {
         <CardMedia
           className={classes.media}
           image= {IMG}
-          title="Contemplative Reptile"
+          title="Movies Online"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
